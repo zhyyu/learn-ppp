@@ -1,7 +1,9 @@
 package com.zhyyu.learn.ppp.principle.srp;
 
 /**
- * 违反SRP(既有连接管理, 又有收发数据)
+ * 违反SRP(单一职责原则)
+ * <pre>
+ * 既有连接管理, 又有收发数据
  * @author zhyyu2016
  *
  */
