@@ -1,5 +1,10 @@
 package com.zhyyu.learn.ppp.principle.isp;
 
+/**
+ * 多重继承(隔离 Door, TimerClient 之间关系)
+ * @author zhyyu
+ *
+ */
 public class TimerDoorImpl2 implements Door, TimerClient {
 
 	@Override
