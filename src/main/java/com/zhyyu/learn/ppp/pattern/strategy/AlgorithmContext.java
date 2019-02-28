@@ -25,7 +25,7 @@ public class AlgorithmContext {
 	
 	public void doAlgorithm() {
 		strategy.method1();
-		strategy.method1();
+		strategy.method2();
 	}
 	
 }
